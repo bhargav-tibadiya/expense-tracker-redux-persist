@@ -1,0 +1,11 @@
+.app_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  /* align-items: center; */
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(167, 252, 255);
+}

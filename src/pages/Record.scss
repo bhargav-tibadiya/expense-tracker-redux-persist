@@ -1,0 +1,30 @@
+.record_box{
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-around;
+  background-color: darkkhaki;
+  width: 100vw;
+  // min-height: 50vh;
+  table{
+    // padding: 12px 0;
+    width: 40%;
+    thead{
+      font-weight: 800;
+      font-size: 24px;
+      text-transform: uppercase;
+    }
+    tbody{
+      font-size: 18px;
+    }
+  }
+}
+.stats{
+  background-color: coral;
+  width: 100%;
+  padding: 15px;
+  font-size: 25px;
+}
+button{
+  color: black;
+}
